@@ -1,6 +1,6 @@
 {
   "install": "pip3 install --user -r requirements.txt",
-  "start": "streamlit run palmer_penguins_app.py",
+  "start": "streamlit run youtube_links.py",
   "watch": {
     "ignore": [
       "\\.pyc$"
